@@ -1,0 +1,1 @@
+from datatools.snippets.draw_all_histograms import draw_all_histograms
